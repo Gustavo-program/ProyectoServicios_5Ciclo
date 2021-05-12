@@ -1,0 +1,14 @@
+﻿@model IEnumerable<Delivery.Models.ProdCarrito>
+@foreach (var elemento in Model)
+{
+    <section class="bloque">
+        <img class="imgCarr" src="@Url.Content(elemento.foto)" />
+        CODIGO: @elemento.codigo <br />
+        DESCRIPCION: @elemento.descripcion<br />
+        PRECIO: @elemento.precio.ToString("0.00")<br />
+        STOK ACTUAL: @elemento.stock<br />
+        <br />
+        <br />
+        @Html.ActionLink("ADQUIRIR", "seleccionaProducto", new { id = elemento.codigo }, new { @class = "btn btn-warning" })
+    </section>
+}

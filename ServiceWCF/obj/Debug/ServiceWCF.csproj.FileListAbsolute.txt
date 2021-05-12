@@ -1,0 +1,13 @@
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\ServiceWCF\bin\ServiceWCF.dll.config
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\ServiceWCF\bin\ServiceWCF.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\ServiceWCF\bin\ServiceWCF.pdb
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\ServiceWCF\obj\Debug\ServiceWCF.csproj.CoreCompileInputs.cache
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\ServiceWCF\obj\Debug\ServiceWCF.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\ServiceWCF\obj\Debug\ServiceWCF.pdb
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\ServiceWCF\bin\ServiceWCF.dll.config
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\ServiceWCF\bin\ServiceWCF.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\ServiceWCF\bin\ServiceWCF.pdb
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\ServiceWCF\obj\Debug\ServiceWCF.csprojAssemblyReference.cache
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\ServiceWCF\obj\Debug\ServiceWCF.csproj.CoreCompileInputs.cache
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\ServiceWCF\obj\Debug\ServiceWCF.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\ServiceWCF\obj\Debug\ServiceWCF.pdb

@@ -1,0 +1,166 @@
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\Delivery.dll.config
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\Delivery.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\Delivery.pdb
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\csc.exe
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\csc.exe.config
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\csc.rsp
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\csi.exe
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\csi.exe.config
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\csi.rsp
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.AppContext.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Console.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.IO.Compression.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.IO.Pipes.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Security.Claims.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.ValueTuple.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Xml.XPath.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\vbc.exe
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\vbc.exe.config
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\vbc.rsp
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\VBCSCompiler.exe
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\Antlr3.Runtime.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\Newtonsoft.Json.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\System.Web.Helpers.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\System.Web.Mvc.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\System.Web.Optimization.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\System.Web.Razor.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\System.Web.WebPages.Deployment.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\System.Web.WebPages.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\System.Web.WebPages.Razor.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\WebGrease.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\System.Web.Helpers.xml
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\System.Web.Mvc.xml
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\System.Web.Optimization.xml
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\System.Web.Razor.xml
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\System.Web.WebPages.xml
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\System.Web.WebPages.Deployment.xml
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\System.Web.WebPages.Razor.xml
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\Newtonsoft.Json.xml
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\Antlr3.Runtime.pdb
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\es\System.Web.Helpers.resources.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\es\System.Web.Mvc.resources.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\es\System.Web.Optimization.resources.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\es\System.Web.Razor.resources.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\es\System.Web.WebPages.resources.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\obj\Debug\Delivery.csproj.CoreCompileInputs.cache
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\obj\Debug\Delivery.csproj.CopyComplete
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\obj\Debug\Delivery.dll
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\obj\Debug\Delivery.pdb
+C:\Users\GUSTAVO\Desktop\ProyectoDSW\Proyecto_Delivery\Delivery\obj\Debug\Delivery.csprojAssemblyReference.cache
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\Delivery.dll.config
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\Delivery.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\Delivery.pdb
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\csc.exe
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\csc.exe.config
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\csc.rsp
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\csi.exe
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\csi.exe.config
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\csi.rsp
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\Microsoft.Managed.Core.targets
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.AppContext.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Collections.Immutable.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Console.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.IO.Compression.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.IO.FileSystem.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.IO.Pipes.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Reflection.Metadata.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Security.AccessControl.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Security.Claims.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Security.Principal.Windows.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.ValueTuple.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Xml.XmlDocument.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Xml.XPath.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\vbc.exe
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\vbc.exe.config
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\vbc.rsp
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\VBCSCompiler.exe
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\roslyn\VBCSCompiler.exe.config
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\Antlr3.Runtime.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\Microsoft.Web.Infrastructure.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\Newtonsoft.Json.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\System.Web.Helpers.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\System.Web.Mvc.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\System.Web.Optimization.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\System.Web.Razor.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\System.Web.WebPages.Deployment.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\System.Web.WebPages.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\System.Web.WebPages.Razor.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\WebGrease.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\System.Web.Helpers.xml
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\System.Web.Mvc.xml
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\System.Web.Optimization.xml
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\System.Web.Razor.xml
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\System.Web.WebPages.xml
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\System.Web.WebPages.Deployment.xml
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\System.Web.WebPages.Razor.xml
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\Newtonsoft.Json.xml
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\Antlr3.Runtime.pdb
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\es\System.Web.Helpers.resources.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\es\System.Web.Mvc.resources.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\es\System.Web.Optimization.resources.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\es\System.Web.Razor.resources.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\es\System.Web.WebPages.resources.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\obj\Debug\Delivery.csprojAssemblyReference.cache
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\obj\Debug\Delivery.csproj.CoreCompileInputs.cache
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\obj\Debug\Delivery.csproj.CopyComplete
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\obj\Debug\Delivery.dll
+C:\_Cursos Cibertec (Ciclo 5)\Desarrollo de Servicios Web\ProyectoDSW\Proyecto_Delivery\Delivery\obj\Debug\Delivery.pdb

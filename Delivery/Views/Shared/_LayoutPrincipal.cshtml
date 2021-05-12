@@ -1,0 +1,136 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.css" />
+    <script type="text/javascript"
+            src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.js">
+    </script>
+
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+</head>
+<body>
+    <nav class="borde navbar navbar-expand-lg navbar-light bg-light navbar-dark bg-dark" id="nav-position">
+        <a class="navbar-brand" href="http://localhost:59244/Delivery">Sanguchería Cooper</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="nav-space navbar-nav">
+                <li class="nav-item">
+                    <!--active-->
+                    @Html.ActionLink("Cerrar Sesión", "Sesion", "Delivery", new { @class = "nav-link" })
+                    <!--<a class="nav-link" id="nav-1" href="#">Home<span class="sr-only"></span></a>-->
+                </li>
+                <li class="nav-item">
+                    @Html.ActionLink("La Carta", "carritoCompras", "Delivery", new { @class = "nav-link" })
+                    <!--<a class="nav-link" id="nav-2" href="#">Features</a>-->
+                </li>
+                <li class="nav-item">
+                    @Html.ActionLink("Listado de Usuarios", "ListadoUsuario", "Delivery", new { @class = "nav-link" })
+                    <!--<a class="nav-link" href="#">Pricing</a>-->
+                </li>
+               
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        PRODUCTOS
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <i>@Html.ActionLink("Listado de Productos", "ListadoProductos", "Delivery")</i>
+                        <i> @Html.ActionLink("Nuevo Producto", "nuevoProducto", "Delivery")</i>
+                        <!--<a class="dropdown-item" href="#"> </a>-->
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <div id="contenedor">
+        <section>
+            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                <ol class="carousel-indicators">
+                    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+                </ol>
+
+                <div class="carousel-inner">
+
+
+                    <div class="carousel-item active">
+                        <img id="imgban" class="d-block w-100" src="~/imagenes/slide04.jpg">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h2 class="texto">COOPER</h2>
+                            <hr />
+                            <p class="texto1">Restaurant </p>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <img id="imgban" class="d-block w-100" src="~/imagenes/slide02.jpg">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h2 class="texto">EN EL MEJOR LUGAR</h2>
+                            <hr />
+                            <p class="texto1">Para tu familia</p>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <img id="imgban" class="d-block w-100" src="~/imagenes/ley-para-regular-comida-chatarra-fast-food.jpg">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h2 class="texto">LOS MEJORES PRECIOS</h2>
+                            <hr />
+                            <p class="texto1">Para tu estómago</p>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <img id="imgban" class="d-block w-100" src="~/imagenes/2banner-interior-triples.jpg">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h2 class="texto">EL MEJOR SABOR </h2>
+                            <hr />
+                            <p class="texto1">Como en casa</p>
+                        </div>
+                    </div>
+
+                </div>
+                <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only"></span>
+                </a>
+                <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+
+        </section>
+
+
+        <div>
+            @RenderBody()
+        </div>
+        <footer>
+            <p>
+                <a href="https://www.facebook.com" class='fab fa-facebook' style='font-size:28px;color:gray;padding:10px' target="_blank"> </a>
+                <a href="https://www.youtube.com" class='fab fa-youtube' style='font-size:28px;color:gray;padding:10px' target="_blank"> </a>
+                <a href="https://www.instagram.com" class='fab fa-instagram' style='font-size:28px;color:gray;padding:10px' target="_blank"> </a>
+                <a href="https://www.twitter.com" class='fab fa-twitter' style='font-size:28px;color:gray;padding:10px' target="_blank"> </a>
+            </p>
+            <p id="text-footer">Todos los derechos reservados © NoCopyright </p>
+        </footer>
+    </div>
+</body>
+</html>

@@ -1,0 +1,71 @@
+﻿@model Delivery.ServiceReference1.Productos
+
+@{
+    ViewBag.Title = "detalleProducto";
+    Layout = "~/Views/Shared/_LayoutPrincipal.cshtml";
+}
+
+<h2 class="text-center"><strong>DETALLE DEL PRODUCTO</strong></h2>
+<section class="marco">
+    <div>
+
+        <dl class="dl-horizontal">
+            <dt>
+               @Html.Label("CODIGO:")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.codigo)
+            </dd>
+
+            <dt>
+                @Html.Label("NOMBRE:")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.nombre)
+            </dd>
+
+            <dt>
+                @Html.Label("DESCRIPCIÓN:")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.descripcion)
+            </dd>
+
+            <dt>
+                @Html.Label("PRECIO:")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.precio)
+            </dd>
+
+            <dt>
+                @Html.Label("STOCK:")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.stock)
+            </dd>
+
+            <dt>
+                @Html.Label("CATEGORIA:")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.categoria)
+            </dd>
+
+        </dl>
+    </div>
+</section>
+<section class="marco">
+    <img id="imgArt" src="@Url.Content(Model.foto)" alt="Alternate Text" />
+</section>
+
+<p>
+    @Html.ActionLink("Ver el listado", "ListadoProductos",null,new { @class = "btn btn-primary" })
+</p>
+

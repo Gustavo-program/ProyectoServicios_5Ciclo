@@ -1,0 +1,29 @@
+﻿@model Delivery.Models.ProdCarrito
+
+@{
+    ViewBag.Title = "seleccionaProducto";
+    Layout = "~/Views/Shared/_LayoutPrincipal.cshtml";
+}
+
+<section id="columna1">
+    @Html.Partial("_PartialRegistro")
+</section>
+<section id="columna2">
+    @using (@Html.BeginForm("agregarProducto", "Delivery"))
+    {
+        <section class="panel panel-primary">
+            <section class="panel-heading">
+                PROCESO DE SELECCION
+            </section>
+
+            <section class="panel-body">
+                <p>INGRESE LA CANTIDAD:</p>
+                @Html.Hidden("id", Model.codigo)
+                @Html.TextBox("cant", "", new { @class = "form-control" })
+                <input class="btn btn-primary" type="submit" value="ACEPTAR" />
+                @Html.ActionLink("CANCELAR", "carritoCompras", "", new { @class = "btn btn-danger" }) 
+
+            </section>
+        </section>
+    }
+</section>

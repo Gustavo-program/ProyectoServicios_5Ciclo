@@ -1,0 +1,85 @@
+﻿@model Delivery.ServiceReference1.Usuario
+
+@{
+    ViewBag.Title = "detalleUsuario";
+    Layout = "~/Views/Shared/_LayoutPrincipal.cshtml";
+}
+
+    <h2 class="text-center"><b>DETALLES DEL USUARIO</b> </h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+
+        <dt>
+            @Html.Label("CODIGO:")
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.codigo)
+        </dd>
+
+
+        <dt>
+            @Html.Label("NOMBRE:")
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.nombre)
+        </dd>
+
+
+        <dt>
+            @Html.Label("APELLIDO:")
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.apellido)
+        </dd>
+
+
+        <dt>
+            @Html.Label("CORREO:")
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.correo)
+        </dd>
+
+
+        <dt>
+            @Html.Label("DNI:")
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.dni)
+        </dd>
+
+
+        <dt>
+            @Html.Label("CELULAR:")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.celular)
+        </dd>
+
+
+        <dt>
+            @Html.Label("DIRECCIÓN:")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.direccion)
+        </dd>
+
+
+        <dt>
+            @Html.Label("DISTRITO:")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.distrito)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "modificaUsuario", new { id = Model.codigo },new { @class = "btn btn-success" }) |
+    @Html.ActionLink("Ver el Listado", "ListadoUsuario", null, new { @class = "btn btn-primary" })
+</p>

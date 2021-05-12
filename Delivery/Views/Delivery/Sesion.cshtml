@@ -1,0 +1,47 @@
+﻿
+@{
+    ViewBag.Title = "Sesion";
+    Layout = "~/Views/Shared/_LayoutSecundario.cshtml";
+}
+
+<center><h2>Inicia Sesión</h2></center>
+
+<div>
+    <div class="row">
+        <div class="col-lg-10 col-xl-9 mx-auto">
+            <div class="card card-signin flex-row my-5">
+                <div class="card-img-left d-none d-md-flex">
+                </div>
+                <div class="card-body">
+                    <form class="form-signin" action="@Url.Content("~/Delivery/Index")">
+                        <div class="form-label-group">
+                            <center>
+                                <label for="inputUserame">Usuario</label>
+                            </center>
+                            <center>
+                                <input type="text" id="inputUserame" class="form-control" placeholder="Usuario" required autofocus>
+                            </center>
+                        </div>
+
+                        <hr>
+
+                        <div class="form-label-group">
+                            <center>
+                                <label for="inputPassword">Contraseña</label>
+                            </center>
+                            <center>
+                                <input type="password" id="inputPassword" class="form-control" placeholder="Contraseña" required>
+                            </center>
+                        </div>
+                        <hr />
+                        <br />
+                        <button class="btn btn-lg btn-primary btn-block text-uppercase" type="submit">Ingresar</button>
+                        <center>@Html.ActionLink("Regístrate", "nuevoUsuario", "Delivery", new { @class = "nav-link" })</center>
+                        <hr class="my-4">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

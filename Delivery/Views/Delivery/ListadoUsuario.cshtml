@@ -1,0 +1,79 @@
+﻿@model IEnumerable<Delivery.ServiceReference1.Usuario>
+
+@{
+    ViewBag.Title = "ListadoUsuario";
+    Layout = "~/Views/Shared/_LayoutPrincipal.cshtml";
+}
+
+<h2 class="text-center" style=""><b>LISTADO DE USUARIOS</b></h2>
+
+
+<table class="table table-bordered table-striped">
+    <tr>
+        <th class="text-center">
+            @Html.Label("CODIGO")
+        </th>
+        <th class="text-center">
+            @Html.Label("NOMBRE")
+        </th>
+        <th class="text-center">
+            @Html.Label("APELLIDO")
+        </th>
+        <th class="text-center">
+            @Html.Label("CORREO")
+        </th>
+        <th class="text-center">
+            @Html.Label("DNI")
+        </th>
+        <th class="text-center">
+            @Html.Label("CELULAR")
+        </th>
+        <th class="text-center">
+            @Html.Label("DIRECCIÓN")
+        </th>
+        <th class="text-center">
+            @Html.Label("DISTRITO")
+        </th>
+
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td class="text-center">
+                @Html.DisplayFor(modelItem => item.codigo)
+            </td>
+            <td class="text-center">
+                @Html.DisplayFor(modelItem => item.nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.apellido)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.correo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.dni)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.celular)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.direccion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.distrito)
+            </td>
+
+
+            <td>
+                @Html.ActionLink("Editar", "modificaUsuario", new { id = item.codigo }, new { @class = "btn btn-success" }) |
+                @Html.ActionLink("Detalles", "detalleUsuario", new { id = item.codigo }, new { @class = "btn btn-warning" }) |
+                @Html.ActionLink("Eliminar", "eliminaUsuario", new { id = item.codigo }, new { @class = "btn btn-danger" })
+            </td>
+        </tr>
+    }
+
+</table>
